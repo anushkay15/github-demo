@@ -1,2 +1,3 @@
 # github-demo
-A githhub tutorial for beginner
+A github tutorial for beginner
+Author - Anushka Yadav
